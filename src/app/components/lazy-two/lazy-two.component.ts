@@ -1,15 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'lazy-two',
   templateUrl: './lazy-two.component.html',
-  styleUrls: ['./lazy-two.component.scss']
+  styleUrls: ['./lazy-two.component.scss'],
 })
-export class LazyTwoComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
-}
+export class LazyTwoComponent {}
