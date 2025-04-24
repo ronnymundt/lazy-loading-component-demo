@@ -1,4 +1,4 @@
-# Lazy Loading Component Demo 🚀
+# Lazy Loading Component Demo 🚦
 
 Diese Angular 19 Demo zeigt, wie man **Lazy Loading** mit dem Angular Router umsetzt, 
 um Komponenten nur dann zu laden, wenn sie benötigt werden. 
